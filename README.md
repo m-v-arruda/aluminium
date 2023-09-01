@@ -1,2 +1,2 @@
 # aluminium
-# Database for ML-DFT NN Model
+Database for ML-DFT NN Model
